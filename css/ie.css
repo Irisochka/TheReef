@@ -1,0 +1,86 @@
+.clearfix, .header {
+    *zoom: 1;
+}
+
+.logo,
+.main-menu li,
+.radio_fake,
+.circle-block .main-circle-nurture,
+.circle-block .main-circle-wonder,
+.circle-block .main-circle-terror {
+    *display: inline;
+    *zoom: 1;
+}
+
+.logo {
+    *float: left;
+}
+
+.theme-form label, .c-l2-title {
+    font-size: 12px;
+}
+
+body, select, input, textarea {
+    font-size: 14px;
+}
+
+.theme-form .label {
+    font-size: 16px;
+}
+
+.button, .c-l1-title {
+    font-size: 18px;
+}
+
+.title {
+    font-size: 47px;
+}
+
+h2, .desc-title {
+    font-size: 25px;
+}
+
+.content p {
+    line-height: 16px;
+}
+
+.inner-circle {
+    background: url("../images/inner-circle.png") left top no-repeat;
+    width: 124px;
+    height: 77px;
+    padding-top: 47px;
+    margin: auto;
+    border: 0;
+}
+
+.c-orange {
+    background: transparent url(../images/circle-orange-small.png) left top no-repeat;
+}
+
+.c-gray {
+    background: transparent url(../images/circle-gray-small.png) left top no-repeat;
+}
+
+.c-level1.c-gray {
+    background: transparent url(../images/circle-gray-big.png) left top no-repeat;
+}
+
+.c-position {
+    *z-index: 100;
+}
+
+.top-icon .sitemap {
+    background: url("../images/sitemap-big-ie.png") left top no-repeat;
+}
+
+.top-icon .sitemap:hover {
+    background: url("../images/sitemap-big-ie.png") left bottom no-repeat;
+}
+
+.fancybox-overlay {
+    background: url('../images/fancybox_overlay.png');
+}
+
+.fancybox-title-float-wrap .child h2 {
+    *line-height: 25px;
+}
